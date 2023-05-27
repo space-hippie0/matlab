@@ -1,8 +1,10 @@
 Type (1) - D
 ![SS 2023-05-27 at 19 03 39](https://github.com/space-hippie0/matlab/assets/118982314/9503abbd-3675-492c-a707-7d375297425b)
+```
 A = zeros(12);  % Initialize a 12x12 matrix A with zeros
-
+```
 % Iterate over rows and columns of A
+```
 for i = 1:12
     for j = 1:12
         % Check the relationship between i and j
@@ -15,13 +17,19 @@ for i = 1:12
         end
     end
 end
-
-aval = eigs(A); 		 			% Compute the eigenvalues of matrix A
-max_eigenvalue = max(abs(aval));  	% Find the maximum absolute eigenvalue
-
+```
+% Compute the eigenvalues of matrix A
+```
+aval = eigs(A); 
+```
+% Find the maximum absolute eigenvalue
+```
+max_eigenvalue = max(abs(aval));  	
+```
 % Display the result
+```
 disp("Maximum Absolute Eigenvalue: " + max_eigenvalue);
-
+```
 
 
 
