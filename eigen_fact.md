@@ -1,5 +1,6 @@
 # # # Type (1) - D # # #
 ![SS 2023-05-27 at 19 03 39](https://github.com/space-hippie0/matlab/assets/118982314/9503abbd-3675-492c-a707-7d375297425b)
+<img src="[https://github.com/favicon.ico](https://github.com/space-hippie0/matlab/assets/118982314/9503abbd-3675-492c-a707-7d375297425b" width="48">
 % Initialize a 12x12 matrix A with zeros
 ```
 A = zeros(12); 
