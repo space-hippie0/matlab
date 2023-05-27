@@ -47,18 +47,38 @@ B=A'*A
 
 # # # Type (3) - C # # #
 ![SS 2023-05-27 at 19 21 09](https://github.com/space-hippie0/matlab/assets/118982314/6012e64d-70ec-4993-87a6-2f4895c3103c)
-x=linspace(-1,1,10);
-A=vander(x);
+% Generate vector x with 10 equally spaced values from -1 to 1
+```
+x = linspace(-1, 1, 10);
+```
+% Construct Vandermonde matrix A using vector x
+```
+A = vander(x);  
+```
 
-z=ones(10,1);
-w=z/norm(z);
+% Initialize vector z with ones
+```
+z = ones(10, 1);  
+```
+% Normalize vector w
+```
+w = z / norm(z);  
+```
 
-for i=1:24
-    z=A*w;
-    lambda(i+1)=w'*z;
-    w=z/norm(z);
+% Perform iterations
+```
+for i = 1:24
+    z = A * w;  		% Multiply matrix A with vector w
+    lambda(i + 1) = w' * z;  	% Compute scalar product of w and z
+    w = z / norm(z);  		% Normalize vector z and update w
 end
-w(3)
+```
+% Display the third element of vector w
+```
+w(3)  
+```
+
+
 
 
 
