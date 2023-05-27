@@ -84,54 +84,70 @@ w(3)
 
 # # # Type (4) - B # # #
 ![SS 2023-05-27 at 20 18 30](https://github.com/space-hippie0/matlab/assets/118982314/527c9eb2-a94d-4cfb-b0b6-392a9050c17d)
-
-A = hilb(18);          						% Generate the Hilbert matrix of order 18
+% Generate the Hilbert matrix of order 18
+```
+A = hilb(18);
+```
+% Apply QR factorization to matrix A
+% Update A by multiplying the orthogonal and upper triangular matrices
+```
 for i = 1:6
-    [Q, R] = qr(A);   						% Apply QR factorization to matrix A
-     A = R * Q;         						% Update A by multiplying the orthogonal and upper triangular matrices
+    [Q, R] = qr(A);   						
+     A = R * Q;        
 end
-
+```
+```
 eigen_diff = max(abs(diag(A) - eig(A))); 	
-
+```
 % Display the result
+```
 disp("Max Absolute Difference: " + eigen_diff);
-
+```
 
 
 
 # # # Type (5) - A # # #
 ![sorulacak](https://github.com/space-hippie0/matlab/assets/118982314/bf30c24d-2c52-4d51-89eb-94edf869ea77)
 % Define the parameters
+```
 n = 18;             		% Order of the matrix A
 diag_val = 6;       		% Value of the diagonal elements
-upper_diag_val = 3; 	% Value of the upper diagonal elements
-lower_diag_val = -3;	% Value of the lower diagonal elements
-
+upper_diag_val = 3; 		% Value of the upper diagonal elements
+lower_diag_val = -3;		% Value of the lower diagonal elements
+```
 % Create the tridiagonal matrix A
+```
 diagonal = diag(diag_val*ones(n,1));
 upper_diagonal = diag(upper_diag_val*ones(n-1,1),1);
 lower_diagonal = diag(lower_diag_val*ones(n-1,1),-1);
 A = diagonal + upper_diagonal + lower_diagonal;
-
+```
 % Build the vector b with equally spaced values in [0,1]
+```
 b = linspace(0,1,n)';
-
+```
 % Perform SVD decomposition of A
+```
 [U, S, V] = svd(A);
-
+```
 % Solve the linear system Ax = b
+```
 x = V * inv(S) * U' * b;
-
+```
 % Calculate the solution y of the linear system with coefficient matrix S
+```
 y = inv(S) * U' * b;
-
+```
 % Calculate the quantity ||x||_2 + ||y||_2
+```
 norm_x = norm(x, 2);
 norm_y = norm(y, 2);
 result = norm_x + norm_y;
-
+```
 % Display the result
-disp(['The quantity ||x||_2 + ||y||_2 is approximately: ' num2str(result)]);
+```
+result
+```
 
 
 
