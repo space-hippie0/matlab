@@ -37,6 +37,7 @@ max_eigenvalue
 
 # # # Type (2) - B # # #
 ![SS 2023-05-27 at 19 17 20](https://github.com/space-hippie0/matlab/assets/118982314/6617e49c-f94a-4064-8f50-8a0c7aac100f)
+
 % Initialize Matrix A
 ```
 A=[2,3,4; 3,4,6; 1,0,3];
