@@ -1,5 +1,5 @@
 Type (1) - D
-
+![SS 2023-05-27 at 19 03 39](https://github.com/space-hippie0/matlab/assets/118982314/9503abbd-3675-492c-a707-7d375297425b)
 A = zeros(12);  % Initialize a 12x12 matrix A with zeros
 
 % Iterate over rows and columns of A
@@ -26,13 +26,13 @@ disp("Maximum Absolute Eigenvalue: " + max_eigenvalue);
 
 
 Type (2) - B
-
+![SS 2023-05-27 at 19 17 20](https://github.com/space-hippie0/matlab/assets/118982314/6617e49c-f94a-4064-8f50-8a0c7aac100f)
 A=[2,3,4; 3,4,6; 1,0,3];
 B=A'*A					% Compute the product of A transpose and A
 
 
 Type (3) - C
-
+![SS 2023-05-27 at 19 21 09](https://github.com/space-hippie0/matlab/assets/118982314/6012e64d-70ec-4993-87a6-2f4895c3103c)
 x=linspace(-1,1,10);
 A=vander(x);
 
@@ -49,7 +49,7 @@ w(3)
 
 
 Type (4) - B
-
+![SS 2023-05-27 at 20 18 30](https://github.com/space-hippie0/matlab/assets/118982314/527c9eb2-a94d-4cfb-b0b6-392a9050c17d)
 
 A = hilb(18);          						% Generate the Hilbert matrix of order 18
 for i = 1:6
@@ -66,7 +66,7 @@ disp("Max Absolute Difference: " + eigen_diff);
 
 
 Type (5) - A
-
+![sorulacak](https://github.com/space-hippie0/matlab/assets/118982314/bf30c24d-2c52-4d51-89eb-94edf869ea77)
 % Define the parameters
 n = 18;             		% Order of the matrix A
 diag_val = 6;       		% Value of the diagonal elements
@@ -102,7 +102,7 @@ disp(['The quantity ||x||_2 + ||y||_2 is approximately: ' num2str(result)]);
 
 
 Type (6) - B
-
+![SS 2023-05-27 at 19 33 13](https://github.com/space-hippie0/matlab/assets/118982314/a4f4d228-2815-4c01-819a-197c10c49f00)
 % Set the size of the matrix A
 n = 6;
 
@@ -143,7 +143,7 @@ disp(['Relative error: ' num2str(err)]);
 
 
 Type (7) - C
-
+![SS 2023-05-27 at 19 36 13](https://github.com/space-hippie0/matlab/assets/118982314/cba55078-e508-48a9-92d0-c14718bf4fcc)
 % Generate an 8x8 Pascal matrix A
 A = pascal(8);
 
@@ -169,7 +169,7 @@ disp(['The Frobenius norm of the difference between A and An is: ' num2str(error
 
 
 Type (8) - E
-
+![SS 2023-05-27 at 19 45 46](https://github.com/space-hippie0/matlab/assets/118982314/43d5b4fa-2a55-49bf-a32e-39661a7cec25)
 % Generate a vector x with 10 equally spaced values between 0 and 1
 x = linspace(0, 1, 10);
 
