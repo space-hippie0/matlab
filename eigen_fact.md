@@ -89,6 +89,7 @@ w(3)
 A = hilb(18);
 ```
 % Apply QR factorization to matrix A
+
 % Update A by multiplying the orthogonal and upper triangular matrices
 ```
 for i = 1:6
@@ -97,6 +98,7 @@ for i = 1:6
 end
 ```
 % maximum absolute difference between the diagonal elements and its eigenvalues.
+
 % This difference can be an indicator of how accurately the diagonal elements of A represent its eigenvalues.
 ```
 eigen_diff = max(abs(diag(A) - eig(A))); 	
