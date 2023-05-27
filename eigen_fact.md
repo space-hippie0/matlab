@@ -10,11 +10,11 @@ for i = 1:12
     for j = 1:12
         % Check the relationship between i and j
         if i == j
-            A(i, j) = 2 * i;  				% Set diagonal elements of A as 2 times i
+            A(i, j) = 2 * i;  				% Set diagonal elements
         elseif i < j
-            A(i, j) = (-2) / j;  			% Set elements below the diagonal as -2 divided by j
+            A(i, j) = (-2) / j;  			% Set elements below the diagonal
         elseif i > j
-            A(i, j) = 2 / j;  				% Set elements above the diagonal as 2 divided by j
+            A(i, j) = 2 / j;  				% Set elements above the diagonal
         end
     end
 end
