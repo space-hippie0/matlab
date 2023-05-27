@@ -12,7 +12,7 @@ for i = 1:12
         if i == j
             A(i, j) = 2 * i;  				% Set diagonal elements of A as 2 times i
         elseif i < j
-            A(i, j) = (-2) / j;  				% Set elements below the diagonal as -2 divided by j
+            A(i, j) = (-2) / j;  			% Set elements below the diagonal as -2 divided by j
         elseif i > j
             A(i, j) = 2 / j;  				% Set elements above the diagonal as 2 divided by j
         end
