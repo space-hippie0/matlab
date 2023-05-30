@@ -1,6 +1,6 @@
 (Trivial 1)
 ![quiz1_trv1](https://github.com/space-hippie0/matlab/assets/118982314/f56ced90-2c68-4cb6-bef5-6ada2423dfc1)
-
+![](sscreen/quiz1/quiz1_1 "1")
 
 Type (1) - E
 
