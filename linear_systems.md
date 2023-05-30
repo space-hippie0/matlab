@@ -66,6 +66,7 @@ cond(A,inf)
 ```
 
 Type (5) - E
+
 ![SS 2023-05-27 at 16 48 28](https://github.com/space-hippie0/matlab/assets/118982314/5c426fb0-f20e-4bae-8a89-a32ecc71752a)
 ```
 A=[6*pi,3,2,1; 3,7*pi,1,0; 2,1,6,0; 1,0,0,4];
