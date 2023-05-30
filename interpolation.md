@@ -81,7 +81,7 @@ Type (5) - D
 ￼![cinque](https://github.com/space-hippie0/matlab/assets/118982314/9626716f-710f-45b9-bc7e-2dc49bd9d9a9)
 ```
 x = [0.0 0.5 1.0 1.5 2.0]; 					% x degerlerini verildiği gibi yazdık
-f =@(x) (sin(x) - (x+1).^2)./((x.^2)+3); 		    % fonksiyonu da ayni sekilde
+f =@(x) (sin(x) - (x+1).^2)./((x.^2)+3); 		        % fonksiyonu da ayni sekilde
 y=f(x);
 ```
 ```
