@@ -2,7 +2,7 @@
 
 ![quiz1_trv1](https://github.com/space-hippie0/matlab/assets/118982314/f56ced90-2c68-4cb6-bef5-6ada2423dfc1)
 
-Type (1) - E
+ # # # Type (1) - E # # # 
 ![quiz1_1](https://github.com/space-hippie0/matlab/assets/118982314/c3f07ff1-66df-432b-9c0a-8e66561c5457)
 
 ```
