@@ -9,6 +9,7 @@
 ![SS 2023-05-27 at 14 14 32](https://github.com/space-hippie0/matlab/assets/118982314/2ab9fb54-21cd-410f-8f5b-a4ceba5ceb11)
 
 (Trivial 4)
+
 ![SS 2023-05-27 at 14 16 20](https://github.com/space-hippie0/matlab/assets/118982314/a49cec92-fdf1-4d2a-9453-e60fa47f69af)
 
 (Trivial 5)
@@ -30,6 +31,7 @@
 ![SS 2023-05-27 at 13 38 50](https://github.com/space-hippie0/matlab/assets/118982314/11a92dd4-93e6-4ae6-8026-ff00727fc892)
 
 (Trivial 11)
+
 ![SS 2023-05-27 at 13 41 02](https://github.com/space-hippie0/matlab/assets/118982314/48d3e314-51a9-46d3-b1da-14e0a63d81b2)
 
 (Trivial 12)
@@ -39,6 +41,7 @@
 ![SS 2023-05-27 at 13 49 13](https://github.com/space-hippie0/matlab/assets/118982314/fe0bcc03-43c8-4f34-b82e-53e466d125b2)
 
 (Trivial 14)
+
 ![SS 2023-05-27 at 13 47 51](https://github.com/space-hippie0/matlab/assets/118982314/a4da8a7d-9380-4b0c-bf92-f899ee8e7f00)
 
 (Trivial 15)
@@ -57,9 +60,11 @@
 ![SS 2023-05-27 at 14 01 09](https://github.com/space-hippie0/matlab/assets/118982314/f288f3bf-cf56-4f6e-b5ec-29f48b974f12)
 
 (Trivial 20)
+
 ![SS 2023-05-27 at 14 01 45](https://github.com/space-hippie0/matlab/assets/118982314/f4aaac99-3ccd-4ca5-922f-3645cdcbb859)
 
 (Trivial 21)
+
 ![SS 2023-05-27 at 13 59 23 copy](https://github.com/space-hippie0/matlab/assets/118982314/8ac5ed95-0f90-4af6-871d-4439b22b7a4f)
 
 (Trivial 22)
@@ -69,6 +74,7 @@
 ![SS 2023-05-27 at 14 10 47](https://github.com/space-hippie0/matlab/assets/118982314/17dbf288-5cfd-48fc-8555-cf22e7ef2026)
 
 (Trivial 24)
+
 ![SS 2023-05-27 at 14 11 09](https://github.com/space-hippie0/matlab/assets/118982314/7b8d27e2-c6dd-48d3-8f17-d3f41a95e340)
 
 (Trivial 25)
