@@ -20,19 +20,26 @@ x = Q' * b
 
 
 # # # DUE # # #
-
+![simulation2](https://github.com/space-hippie0/matlab/assets/118982314/5a832037-4719-4a59-a0ec-5a82f4f96a22)
+% creating a matrix
+```
 n = 100;
 A = zeros(n);
+```
+% generic element transformation
+```
 for i = 1:n
     for j = 1:n
         A(i, j) = max(i, j);
     end
 end
-
+```
+% Choleski factor of B
+```
 B = A' * A;
-
 L = chol(B, 'upper');
 element = L(52, 64)
+```
 %a
 
 
