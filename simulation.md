@@ -92,16 +92,20 @@ err = abs(approx - exact) / abs(exact)
 
 
 # # # CINQUE # # #
-
-n = 100;
-main_diag = 5;
-off_diag = 1;
-A = diag(main_diag * ones(n, 1)) + diag(off_diag * ones(n-1, 1), 1) + diag(-off_diag * ones(n-1, 1), -1);
-
+![sim5](https://github.com/space-hippie0/matlab/assets/118982314/a43d8b97-6b69-4109-b549-52e75ce5c206)
+% creating the matrix
+```
+A = diag(5 * ones(100, 1)) + diag(1 * ones(99, 1), 1) + diag(-1 * ones(99, 1), -1);
+```
+% eigen values
+```
 eigenvalues = eig(A);
-
+```
+% min and max lambda
+```
 min_lambda = min(abs(eigenvalues))
 max_lambda = max(abs(eigenvalues))
+```
 %b
 
 # # # SEI # # #
