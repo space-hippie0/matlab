@@ -74,12 +74,20 @@ maxerr = max(abs(f(z)-s))
 
 
 # # # QUATTRO # # #
-
+![sim4](https://github.com/space-hippie0/matlab/assets/118982314/5da81156-d540-491c-af7b-6b7fc48d8f78)
+% function
+```
 x = 10^-6;
 exact = 1 - sqrt(1 + x^2);
+```
+% eslenik ile carpilmis hali
+```
 approx = -x^2 / (1 + sqrt(1 + x^2));
-
-relative_error = abs(approx - exact) / abs(exact)
+```
+% relative error
+```
+err = abs(approx - exact) / abs(exact)
+```
 %a
 
 
