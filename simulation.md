@@ -1,5 +1,6 @@
 # # # UNO # # #
 ![simulation1](https://github.com/space-hippie0/matlab/assets/118982314/e5c2a254-372e-4a2f-a996-65e7ba04ce95)
+% create matrix
 ```
 A = magic(3);
 ```
