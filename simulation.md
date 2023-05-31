@@ -45,15 +45,25 @@ element = L(52, 64)
 
 
 # # # TRE # # #
-
+![simulation3](https://github.com/space-hippie0/matlab/assets/118982314/f210be82-cef6-40ed-87bc-2e41b21bae35)
+% function and interval
+```
 f = @(x) sin(x);
 x = linspace(0,1,9);
 y = f(x);
-
+```
+```
 z = linspace(0,1,180);
-
+```
+% spline 
+```
 s = spline(x,y,z);
-maxerr = max(abs(f(z)-s)) %e
+% absolute interpolation error
+```
+```
+maxerr = max(abs(f(z)-s))
+```
+%e
 
 
 
