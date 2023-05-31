@@ -109,17 +109,27 @@ max_lambda = max(abs(eigenvalues))
 %b
 
 # # # SEI # # #
+![sim6](https://github.com/space-hippie0/matlab/assets/118982314/2bcf18db-19aa-4526-b50a-9c37aedf17b5)
 
 # # # SETTE # # #
+![sim7](https://github.com/space-hippie0/matlab/assets/118982314/e7037d77-228c-4863-b983-63fee6791bde)
 
 # # # OTTO # # #
-
+![sim8](https://github.com/space-hippie0/matlab/assets/118982314/f2c39e11-a7c6-41b9-b687-1d0d97083c72)
+% change format
+```
 format short
+```
+```
 A = magic(3);
 b = [1; 2; 3];
-
+```
+% QR factorization
+```
 [Q, R] = qr(A);  
-
+```
+% linear system
+```
 x = R \ b; 
-
+```
 %d
