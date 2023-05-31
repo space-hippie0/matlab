@@ -7,11 +7,11 @@ A = magic(3);
 ```
 [Q, R] = qr(A);
 ```
-```
-b = [1; 2; 3];
-```
+
 % solve lineer system
 ```
+b = [1; 2; 3];
+
 x = Q' * b
 ```
 %b
