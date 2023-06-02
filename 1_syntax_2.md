@@ -7,7 +7,7 @@
 # # # (Type trivial 3) # # #
 ![SS 2023-05-27 at 13 04 36](https://github.com/space-hippie0/matlab/assets/118982314/8b57bcc4-f95a-43f8-ac8f-3d0a6c0f2843)
 
- # # (Type trivial 4) # # 
+# # # (Type trivial 4) # # #
 ![SS 2023-05-27 at 13 09 57](https://github.com/space-hippie0/matlab/assets/118982314/540f5498-5abd-4798-97d7-6976938324c0)
 
 
