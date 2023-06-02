@@ -20,7 +20,7 @@ L=-2;
 ```
 res = (N-1)*(N.^(t-1))*((U-L)+1)
 ```
- # # Type (3) - A # # 
+# # # Type (3) - A # # #
 ![machine-3](https://github.com/space-hippie0/matlab/assets/118982314/d3a2b841-de64-444b-bede-22f448b97707)
 
 ```
@@ -38,7 +38,7 @@ abs(f(x1,d1)-fn(x1,d1))/abs(fn(x1,d1))
 abs(f(x2,d2)-fn(x2,d2))/abs(fn(x2,d2))
 ```
 
- # # Type (4) - E # # 
+# # # Type (4) - E # # #
 ![machine-4](https://github.com/space-hippie0/matlab/assets/118982314/a005241f-962d-4c52-b8c9-a51bb05d6d49)
 
 ```
@@ -52,7 +52,7 @@ res = (N-1)*(N.^(t-1))*((U-L)+1)
 ```
 
 
- # # Type (5) - B # # 
+# # # Type (5) - B # # #
 ![machine-5](https://github.com/space-hippie0/matlab/assets/118982314/7b670a98-ebe1-4400-b5f3-6a38be906dc0)
 ```
 x(1) = 2;
@@ -64,7 +64,7 @@ end
 min(abs(x-pi))/pi
 ```
 
- # # Type (6) - D # # 
+# # # Type (6) - D # # #
 ![machine-6](https://github.com/space-hippie0/matlab/assets/118982314/b5a54690-780b-4c4f-9f07-f1034e0f03f9)
 ```
 x = 10^-6;
