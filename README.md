@@ -1,5 +1,7 @@
 # # # matlab # # #
 
-mostly simple matlab calculations
-and approximations according to 
+mostly simple calculations&
+
+approximations according to 
+
 polito lineer algebra class
