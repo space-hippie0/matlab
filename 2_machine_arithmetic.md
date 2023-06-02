@@ -1,14 +1,15 @@
- # # Type (1) - D # # 
+# # # Type (1) - D # # #
 ![machine-1](https://github.com/space-hippie0/matlab/assets/118982314/7b827234-cef6-49bb-a53b-9a66936fed1e)
 ```
 for n=1:14
     L(n) = (1-cos(10^-n))./(10^-n)^2;
 end
-
+```
+```
 [min,index] = min(abs(L-1/2))
 ```
 
- # # Type (2) - E # # 
+# # # Type (2) - E # # #
 ![machine-2](https://github.com/space-hippie0/matlab/assets/118982314/f14176da-5a42-4d71-be37-582216107b49)
 ```
 N=2;
