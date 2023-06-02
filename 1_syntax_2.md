@@ -48,7 +48,7 @@ semilogy(x,y);
 ```
 
 
- # # Type (4) - C # # 
+# # # Type (4) - C # # #
 ![SS 2023-05-27 at 13 11 46](https://github.com/space-hippie0/matlab/assets/118982314/721131cd-d0c2-4d5a-a8ed-c4840a94a87e)
 ```
 x = linspace(1,100);
@@ -62,7 +62,7 @@ end
 c=dot(x,y)
 ```
 
- # # Type (5) - D # # 
+# # # Type (5) - D # # #
 ![SS 2023-05-27 at 13 20 25](https://github.com/space-hippie0/matlab/assets/118982314/56e2cc62-ec2f-465e-b064-599085719394)
 ```
 x = linspace(28, 52, 1000);
