@@ -11,7 +11,7 @@
 ![SS 2023-05-27 at 13 09 57](https://github.com/space-hippie0/matlab/assets/118982314/540f5498-5abd-4798-97d7-6976938324c0)
 
 
- # # Type (1) - A # # 
+# # # Type (1) - A # # #
 
 ![SS 2023-05-27 at 12 57 15](https://github.com/space-hippie0/matlab/assets/118982314/0fac9f40-7e9d-4195-a0bc-9c7cc47aaa5b)
 ```
@@ -22,7 +22,7 @@ semilogx(x,y)
 ```
 
 
- # # Type (2) - C # # 
+# # # Type (2) - C # # #
 
 ![SS 2023-05-27 at 13 02 29](https://github.com/space-hippie0/matlab/assets/118982314/7f767741-6bd3-4e24-869c-89539aaf607d)
 ```
