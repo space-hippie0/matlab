@@ -35,7 +35,7 @@ plot(x,y1,x,y2)
 ```
 
 
- # # Type (3) - A # # 
+# # # Type (3) - A # # #
 
 ![SS 2023-05-27 at 13 07 39](https://github.com/space-hippie0/matlab/assets/118982314/43888a28-3d55-4c7c-9229-bfe7e9d9667d)
 ```
