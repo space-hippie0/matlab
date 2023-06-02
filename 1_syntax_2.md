@@ -1,4 +1,4 @@
- # # (Type trivial 1) # # 
+# # # (Type trivial 1) # # #
 ![SS 2023-05-27 at 12 47 05](https://github.com/space-hippie0/matlab/assets/118982314/914f039e-3cde-4529-af99-f2d694f963d3)
 
  # # (Type trivial 2) # # 
