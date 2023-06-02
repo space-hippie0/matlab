@@ -1,7 +1,7 @@
 # # # (Type trivial 1) # # #
 ![SS 2023-05-27 at 12 47 05](https://github.com/space-hippie0/matlab/assets/118982314/914f039e-3cde-4529-af99-f2d694f963d3)
 
- # # (Type trivial 2) # # 
+# # # (Type trivial 2) # # #
 ![SS 2023-05-27 at 13 03 09](https://github.com/space-hippie0/matlab/assets/118982314/41021b42-c58a-45c3-9144-ac3878a935e8)
 
  # # (Type trivial 3) # # 
