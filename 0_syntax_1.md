@@ -89,5 +89,5 @@
 ```
 x = transpose([1, log(2), sqrt(7)]);
 y = transpose([pi, log(3), sqrt(8)]);
-c = dot(x,y);
+c = dot(x,y)
 ```
