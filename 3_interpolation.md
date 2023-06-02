@@ -18,20 +18,8 @@
 
 
 
- # # Type (1) - B # # 
-![uno](https://github.com/space-hippie0/matlab/assets/118982314/2377f861-cf38-44e4-9f37-7e7e09b406cc)
-```
-x = [-5 4 5 11];
-y = [6 2 4 10];
-z = sqrt(1.8);
-```
-```
-y0 = 10;
-yn = 4;
-```
-```
-spline(x, [y0,y,yn], z)
-```
+______suprise there is no type (1)______
+
 
  # # Type (2) - A # # 
 ![due](https://github.com/space-hippie0/matlab/assets/118982314/ab05854f-78ee-4123-a25f-2f0749f1b7a6)
