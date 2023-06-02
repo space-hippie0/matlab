@@ -18,7 +18,7 @@
 
 
 
-______suprise there is no type (1)______
+# # # #______suprise there is no type (1)______# # # #
 
 
  # # Type (2) - A # # 
