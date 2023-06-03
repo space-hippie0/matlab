@@ -95,7 +95,7 @@ s=sum(x,2);
 norm(s)
 ```
 
- # # Type (7) -  C # # 
+# # # Type (7) -  C # # #
 ![SS 2023-05-27 at 16 56 10](https://github.com/space-hippie0/matlab/assets/118982314/5c157a28-7e62-4ea8-b955-171bceaa4aaa)
 
 ```
@@ -104,7 +104,7 @@ A = hilb(4);
 P
 ```
 
- # # Type (8) -  B # # 
+# # # Type (8) -  B # # #
 ![SS 2023-05-27 at 16 58 07](https://github.com/space-hippie0/matlab/assets/118982314/681d1899-bebe-455e-8c52-c084fe27066f)
 ```
 A=[4,6; 3/5,1]; 
