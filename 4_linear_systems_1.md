@@ -52,7 +52,7 @@ s = x+y;
 norm(s,1)
 ```
 
- # # Type (4) - A # # 
+# # # Type (4) - A # # #
 ![SS 2023-05-27 at 16 46 46](https://github.com/space-hippie0/matlab/assets/118982314/dd06b48d-7404-4b4d-aac8-29d6f4f53b2c)
 ```
 A=4*eye(100) ...
@@ -65,7 +65,7 @@ A=4*eye(100) ...
 cond(A,inf)
 ```
 
- # # Type (5) - E # # 
+# # # Type (5) - E # # #
 
 ![SS 2023-05-27 at 16 48 28](https://github.com/space-hippie0/matlab/assets/118982314/5c426fb0-f20e-4bae-8a89-a32ecc71752a)
 ```
@@ -75,7 +75,7 @@ R(3,3)
 ```
 
 
- # # Type (6) - C # # 
+# # # Type (6) - C # # #
 ![SS 2023-05-27 at 16 53 50](https://github.com/space-hippie0/matlab/assets/118982314/f8c3d005-4e11-4a0b-8d76-cc9ef63a2755)
 ```
 A=6*eye(18) + 3*diag(ones(17,1),1) ...
