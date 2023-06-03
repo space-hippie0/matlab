@@ -18,7 +18,7 @@
 
 
 
- # # Type (1) - A # # 
+# # # Type (1) - A # # #
 ![SS 2023-05-27 at 16 29 06](https://github.com/space-hippie0/matlab/assets/118982314/fe473f91-396c-43a7-b453-29f32d28f254)
 ```
 A = [6*pi, 3, 7;  6, 9, -1;  -3, -2, 7];
@@ -27,14 +27,14 @@ x = A\b;
 x(2)
 ```
 
- # # Type (2) - C # # 
+# # # Type (2) - C # # #
 ![SS 2023-05-27 at 16 34 16](https://github.com/space-hippie0/matlab/assets/118982314/f3166fd2-ce71-41f5-8250-e812981338d1)
 ```
 İlk adım, matrisin (A|b) ilk satırın ilk öğesinin altında
 tüm sıfırlara sahip olacak şekilde manipüle edilmesinden oluşur.
 ```
 
- # # Type (3) - C # # 
+# # # Type (3) - C # # #
 ![SS 2023-05-27 at 16 42 22](https://github.com/space-hippie0/matlab/assets/118982314/d76d7d1d-1bd0-4620-94e6-99a233d559b2)
 ```
 A = 6*eye(18) + 3*diag(ones(17,1),1) + 3*diag(ones(17,1),-1);
