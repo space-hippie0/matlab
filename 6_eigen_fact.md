@@ -26,12 +26,9 @@ aval = eigs(A);
 ```
 % Find the maximum absolute eigenvalue
 ```
-max_eigenvalue = max(abs(aval));  	
+max_eigenvalue = max(abs(aval)) 	
 ```
-% Display the result
-```
-max_eigenvalue
-```
+
 
 
 
