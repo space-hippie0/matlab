@@ -7,13 +7,13 @@
 # # # (Type trivial 3) # # #
 ![SS 2023-05-27 at 16 38 46](https://github.com/space-hippie0/matlab/assets/118982314/e83f6bbf-5407-456e-a9d7-530650ccf373)
 
- # # (Type trivial 4) # # 
+# # # (Type trivial 4) # # #
 ![SS 2023-05-27 at 16 51 59](https://github.com/space-hippie0/matlab/assets/118982314/ea9f8091-5bdc-47fe-94e5-3c76d9ad2221)
 
- # # (Type trivial 5) # # 
+# # # (Type trivial 5) # # #
 ![SS 2023-05-27 at 17 00 03](https://github.com/space-hippie0/matlab/assets/118982314/4a491f2e-b4f6-4039-9797-05a00cccd971)
 
- # # (Type trivial 6) # # 
+# # # (Type trivial 6) # # #
 ![SS 2023-05-27 at 17 03 30](https://github.com/space-hippie0/matlab/assets/118982314/340b7917-bd63-4046-9d65-35bacdfb0dcc)
 
 
