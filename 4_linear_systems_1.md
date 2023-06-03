@@ -1,10 +1,10 @@
- # # (Type trivial 1) # # 
+# # # (Type trivial 1) # # #
 ![SS 2023-05-27 at 16 31 22](https://github.com/space-hippie0/matlab/assets/118982314/679f41ca-e116-46a9-9816-0f65fa5ae98e)
 
- # # (Type trivial 2) # # 
+# # # (Type trivial 2) # # #
 ![SS 2023-05-27 at 16 38 59](https://github.com/space-hippie0/matlab/assets/118982314/511eccb9-0f34-4300-acbe-8d8f9126f94c)
 
- # # (Type trivial 3) # # 
+# # # (Type trivial 3) # # #
 ![SS 2023-05-27 at 16 38 46](https://github.com/space-hippie0/matlab/assets/118982314/e83f6bbf-5407-456e-a9d7-530650ccf373)
 
  # # (Type trivial 4) # # 
