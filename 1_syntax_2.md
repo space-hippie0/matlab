@@ -39,7 +39,7 @@ plot(x,y1,x,y2)
 
 ![SS 2023-05-27 at 13 07 39](https://github.com/space-hippie0/matlab/assets/118982314/43888a28-3d55-4c7c-9229-bfe7e9d9667d)
 ```
-x = [0,4];
+x = linspace(0,4);
 f = @(x) exp(x.^2);
 y = f(x);
 ```
