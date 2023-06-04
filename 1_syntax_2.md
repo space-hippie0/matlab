@@ -59,6 +59,8 @@ for k=1:100
     x(k)= log(k) + sqrt(k);
     y(k)= (k)./(6*pi);
 end
+```
+```
 c=dot(x,y)
 ```
 
