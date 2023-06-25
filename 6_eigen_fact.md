@@ -133,11 +133,7 @@ y = inv(S) * U' * b;
 ```
 norm_x = norm(x, 2);
 norm_y = norm(y, 2);
-result = norm_x + norm_y;
-```
-% Display the result
-```
-result
+result = norm_x + norm_y
 ```
 
 
