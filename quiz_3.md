@@ -109,7 +109,7 @@ max(x)
 
 
 
-# # # Type (8) - IDK (A) # # #
+# # # Type (8) - (A) # # #
 ![quiz3_8](https://github.com/space-hippie0/matlab/assets/118982314/cc2c82bb-4db1-49db-a102-f9d79b626641)
 ```
 x = linspace(2,3,5);
