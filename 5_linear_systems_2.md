@@ -25,11 +25,10 @@ abs(p-1.5)
  # # Type (3) - A # # 
 ![SS 2023-05-27 at 17 12 48](https://github.com/space-hippie0/matlab/assets/118982314/d6e17649-39dc-42da-9a29-87c9a4c4f6c5)
 ```
-n=30; 
 f=@(x) x.*sin(x);
 ```
 ```
-x=linspace(0,1/2*pi,n);
+x=linspace(0,1/2*pi,30);
 ```
 ```
 y=f(x);
@@ -86,9 +85,8 @@ res=norm(p-y)
  # # Type (8) - D # # 
 ![SS 2023-05-27 at 17 29 23](https://github.com/space-hippie0/matlab/assets/118982314/3827b74a-90c0-4826-8f51-002bbfe6bdb0)
 ```
-n=22;
 f=@(x) x.^2.*log(1+x);
-x=linspace(0,5,n);
+x=linspace(0,5,22);
 y=f(x);
 ```
 ```
