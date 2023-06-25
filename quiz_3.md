@@ -111,7 +111,12 @@ max(x)
 
 # # # Type (8) - IDK (A) # # #
 ![quiz3_8](https://github.com/space-hippie0/matlab/assets/118982314/cc2c82bb-4db1-49db-a102-f9d79b626641)
-
+```
+x = linspace(2,3,5);
+f = @(x); 1./((x.^3)+1);
+y = f(x);
+polyfit(x,y,4)
+```
 
 
 
