@@ -101,12 +101,9 @@ end
 
 % This difference can be an indicator of how accurately the diagonal elements of A represent its eigenvalues.
 ```
-eigen_diff = max(abs(diag(A) - eig(A))); 	
+eigen_diff = max(abs(diag(A) - eig(A))) 	
 ```
-% Display the result
-```
-disp("Max Absolute Difference: " + eigen_diff);
-```
+
 
 
 
