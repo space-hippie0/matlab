@@ -38,7 +38,7 @@ end
 % Choleski factor of B
 ```
 B = A' * A;
-L = chol(B, 'upper');
+L = chol(B);
 element = L(52, 64)
 ```
 %a
