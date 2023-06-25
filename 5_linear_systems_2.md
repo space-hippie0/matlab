@@ -29,7 +29,7 @@ n=30;
 f=@(x) x.*sin(x);
 ```
 ```
-x=linspace(0,1/2*pi);
+x=linspace(0,1/2*pi,n);
 ```
 ```
 y=f(x);
