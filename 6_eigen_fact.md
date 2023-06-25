@@ -109,19 +109,9 @@ eigen_diff = max(abs(diag(A) - eig(A)))
 
 # # # Type (5) - A # # #
 ![sorulacak](https://github.com/space-hippie0/matlab/assets/118982314/bf30c24d-2c52-4d51-89eb-94edf869ea77)
-% Define the parameters
-```
-n = 18;             		% Order of the matrix A
-diag_val = 6;       		% Value of the diagonal elements
-upper_diag_val = 3; 		% Value of the upper diagonal elements
-lower_diag_val = -3;		% Value of the lower diagonal elements
-```
 % Create the tridiagonal matrix A
 ```
-diagonal = diag(diag_val*ones(n,1));
-upper_diagonal = diag(upper_diag_val*ones(n-1,1),1);
-lower_diagonal = diag(lower_diag_val*ones(n-1,1),-1);
-A = diagonal + upper_diagonal + lower_diagonal;
+A = 6*eye(18) + 3*diag(ones(17,1),1) + (-3)*diag(ones(17,1),-1);
 ```
 % Build the vector b with equally spaced values in [0,1]
 ```
