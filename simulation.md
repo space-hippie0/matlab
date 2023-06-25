@@ -39,7 +39,7 @@ end
 ```
 B = A' * A;
 L = chol(B);
-element = L(52, 64)
+res = L(52, 64)
 ```
 %a
 
