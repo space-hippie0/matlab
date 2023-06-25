@@ -88,7 +88,8 @@ res=norm(p-y)
 ```
 n=22;
 f=@(x) x.^2.*log(1+x);
-x=linspace(0,5,n); y=f(x);
+x=linspace(0,5,n);
+y=f(x);
 ```
 ```
 c=polyfit(x,y,4);
