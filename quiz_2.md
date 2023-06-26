@@ -182,7 +182,6 @@ c=polyfit(x,y,6);
 ```
 polyval(c,-1)
 ```
-% pay attention it is 0.08…..
 
 
 # # # Type (14) - E # # #
