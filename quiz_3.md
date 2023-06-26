@@ -90,16 +90,14 @@ x(5)
 
 
 
-# # # Type (6) - IDK # # #
+# # # Type (6) - A # # #
 ![quiz3_6](https://github.com/space-hippie0/matlab/assets/118982314/594eef41-ccc0-4e70-b4eb-dce4a0dacca2)
 ```
 f=@(x) exp(-x.^2).*sin(x); 
-x=linspace(0,1);
+x=linspace(0,1,100);
 y=f(x);
-max(x)
+plot(x,f(x));
 ```
-% credo should be D but it is A
-
 
 
 
