@@ -206,8 +206,8 @@ err=norm(abs(x-z),inf)
 ![quiz1_14](https://github.com/space-hippie0/matlab/assets/118982314/03cdd933-238d-4f4a-905a-3fdd6f9605bc)
 ```
 v=[1:1:30];
-   w=1./sqrt(v);
-   sum(w)
+w=1./sqrt(v);
+sum(w)
 ```
 
  # # # Type (15) - B # # # 
