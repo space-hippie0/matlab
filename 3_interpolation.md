@@ -13,9 +13,6 @@
 # # # (Type trivial 5) # # #
 ![SS 2023-05-27 at 12 29 19](https://github.com/space-hippie0/matlab/assets/118982314/fbbb5057-88c8-4e29-a29d-92da23bbe611)
 
-# # # (Type trivial 6) # # #
-![SS 2023-05-27 at 12 34 47](https://github.com/space-hippie0/matlab/assets/118982314/38e627da-3def-438d-a921-e8e001f32cd8)
-
 
 
 
