@@ -1,3 +1,7 @@
+# # # Type Trivial - E # # #
+![SS 2024-02-23 at 18 01 09](https://github.com/space-hippie0/matlab/assets/118982314/b5a355f0-a84c-4fac-937d-6ea0382f2e09)
+
+
 # # # Type (1) - D # # #
 ![machine-1](https://github.com/space-hippie0/matlab/assets/118982314/7b827234-cef6-49bb-a53b-9a66936fed1e)
 ```
