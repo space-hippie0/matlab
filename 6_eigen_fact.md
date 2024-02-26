@@ -11,22 +11,18 @@ for i = 1:12
     for j = 1:12
         % Check the relationship between i and j
         if i == j
-            A(i, j) = 2 * i;  				% Set diagonal elements
+            A(i, j) = 2 * i;  				
         elseif i < j
-            A(i, j) = (-2) / j;  			% Set elements below the diagonal
+            A(i, j) = (-2) / j;  			
         elseif i > j
-            A(i, j) = 2 / j;  				% Set elements above the diagonal
+            A(i, j) = 2 / j;  				
         end
     end
 end
 ```
-% Compute the eigenvalues of matrix A
-```
-aval = eigs(A); 
-```
 % Find the maximum absolute eigenvalue
 ```
-max_eigenvalue = max(abs(aval)) 	
+max(abs(eig(A)))	
 ```
 
 
