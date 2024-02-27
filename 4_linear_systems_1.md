@@ -82,17 +82,17 @@ A=6*eye(18) + 3*diag(ones(17,1),1) ...
 +3*diag(ones(17,1),- 1);
 ```
 ```
-x=zeros(18,3);
+z=0;
 ```
 ```
 for j=1:3
 b=linspace(0,j,18)';
-x(:,j)=A\b;
+x=A\b;
+z=z+x;
 end
 ```
 ```
-s=sum(x,2);
-norm(s)
+norm(z,2)
 ```
 
 # # # Type (7) -  C # # #
