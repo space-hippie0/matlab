@@ -86,9 +86,9 @@ z=0;
 ```
 ```
 for j=1:3
-b=linspace(0,j,18)';
-x=A\b;
-z=z+x;
+  b=linspace(0,j,18)';
+  x=A\b;
+  z=z+x;
 end
 ```
 ```
